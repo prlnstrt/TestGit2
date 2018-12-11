@@ -1,3 +1,3 @@
 contenu de readme.txt
-Deuxième Commit 
+Deuxième Commit ou 2e commit 
 Hello World ! - by @prlnstrt
