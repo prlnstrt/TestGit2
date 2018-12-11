@@ -1,3 +1,10 @@
 fichier 1
+<<<<<<< HEAD
 Lodeve
 Hérault
+=======
+Modif branch 4
+commit GIT080
+commit GIT080 3
+Cherry Pick
+>>>>>>> 977d470... Update fichier 1 Cherry Pick
